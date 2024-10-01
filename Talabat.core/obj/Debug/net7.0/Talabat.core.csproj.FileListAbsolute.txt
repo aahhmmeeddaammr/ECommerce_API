@@ -1,0 +1,11 @@
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\8.API\Talabat_API\Talabat.core\bin\Debug\net7.0\Talabat.core.deps.json
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\8.API\Talabat_API\Talabat.core\bin\Debug\net7.0\Talabat.core.dll
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\8.API\Talabat_API\Talabat.core\bin\Debug\net7.0\Talabat.core.pdb
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\8.API\Talabat_API\Talabat.core\obj\Debug\net7.0\Talabat.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\8.API\Talabat_API\Talabat.core\obj\Debug\net7.0\Talabat.core.AssemblyInfoInputs.cache
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\8.API\Talabat_API\Talabat.core\obj\Debug\net7.0\Talabat.core.AssemblyInfo.cs
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\8.API\Talabat_API\Talabat.core\obj\Debug\net7.0\Talabat.core.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\8.API\Talabat_API\Talabat.core\obj\Debug\net7.0\Talabat.core.dll
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\8.API\Talabat_API\Talabat.core\obj\Debug\net7.0\refint\Talabat.core.dll
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\8.API\Talabat_API\Talabat.core\obj\Debug\net7.0\Talabat.core.pdb
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\8.API\Talabat_API\Talabat.core\obj\Debug\net7.0\ref\Talabat.core.dll

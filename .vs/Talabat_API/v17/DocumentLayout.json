@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\8.API\\Talabat_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF30311-D978-44BC-A8A0-9AB20F581AD7}|Talabat_API\\Talabat.API.csproj|c:\\users\\ahmed\\desktop\\fullstack\\asp.net\\8.api\\talabat_api\\talabat_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF30311-D978-44BC-A8A0-9AB20F581AD7}|Talabat_API\\Talabat.API.csproj|solutionrelative:talabat_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF30311-D978-44BC-A8A0-9AB20F581AD7}|Talabat_API\\Talabat.API.csproj|c:\\users\\ahmed\\desktop\\fullstack\\asp.net\\8.api\\talabat_api\\talabat_api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF30311-D978-44BC-A8A0-9AB20F581AD7}|Talabat_API\\Talabat.API.csproj|solutionrelative:talabat_api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF30311-D978-44BC-A8A0-9AB20F581AD7}|Talabat_API\\Talabat.API.csproj|c:\\users\\ahmed\\desktop\\fullstack\\asp.net\\8.api\\talabat_api\\talabat_api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF30311-D978-44BC-A8A0-9AB20F581AD7}|Talabat_API\\Talabat.API.csproj|solutionrelative:talabat_api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5FE2C06-8B17-49B7-912D-B1B9F3B1C7E6}|Talabat.Repository\\Talabat.Repository.csproj|c:\\users\\ahmed\\desktop\\fullstack\\asp.net\\8.api\\talabat_api\\talabat.repository\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5FE2C06-8B17-49B7-912D-B1B9F3B1C7E6}|Talabat.Repository\\Talabat.Repository.csproj|solutionrelative:talabat.repository\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A382B8-D2D8-44CD-9DDD-72C80C1EA378}|Talabat.core\\Talabat.core.csproj|c:\\users\\ahmed\\desktop\\fullstack\\asp.net\\8.api\\talabat_api\\talabat.core\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43A382B8-D2D8-44CD-9DDD-72C80C1EA378}|Talabat.core\\Talabat.core.csproj|solutionrelative:talabat.core\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5FE2C06-8B17-49B7-912D-B1B9F3B1C7E6}|Talabat.Repository\\Talabat.Repository.csproj|c:\\users\\ahmed\\desktop\\fullstack\\asp.net\\8.api\\talabat_api\\talabat.repository\\data\\storecontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5FE2C06-8B17-49B7-912D-B1B9F3B1C7E6}|Talabat.Repository\\Talabat.Repository.csproj|solutionrelative:talabat.repository\\data\\storecontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5FE2C06-8B17-49B7-912D-B1B9F3B1C7E6}|Talabat.Repository\\Talabat.Repository.csproj|c:\\users\\ahmed\\desktop\\fullstack\\asp.net\\8.api\\talabat_api\\talabat.repository\\data\\dataseeding\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E5FE2C06-8B17-49B7-912D-B1B9F3B1C7E6}|Talabat.Repository\\Talabat.Repository.csproj|solutionrelative:talabat.repository\\data\\dataseeding\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5FE2C06-8B17-49B7-912D-B1B9F3B1C7E6}|Talabat.Repository\\Talabat.Repository.csproj|c:\\users\\ahmed\\desktop\\fullstack\\asp.net\\8.api\\talabat_api\\talabat.repository\\data\\dataseeding\\categories.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E5FE2C06-8B17-49B7-912D-B1B9F3B1C7E6}|Talabat.Repository\\Talabat.Repository.csproj|solutionrelative:talabat.repository\\data\\dataseeding\\categories.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5FE2C06-8B17-49B7-912D-B1B9F3B1C7E6}|Talabat.Repository\\Talabat.Repository.csproj|c:\\users\\ahmed\\desktop\\fullstack\\asp.net\\8.api\\talabat_api\\talabat.repository\\data\\dataseeding\\brands.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E5FE2C06-8B17-49B7-912D-B1B9F3B1C7E6}|Talabat.Repository\\Talabat.Repository.csproj|solutionrelative:talabat.repository\\data\\dataseeding\\brands.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5FE2C06-8B17-49B7-912D-B1B9F3B1C7E6}|Talabat.Repository\\Talabat.Repository.csproj|c:\\users\\ahmed\\desktop\\fullstack\\asp.net\\8.api\\talabat_api\\talabat.repository\\data\\storedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5FE2C06-8B17-49B7-912D-B1B9F3B1C7E6}|Talabat.Repository\\Talabat.Repository.csproj|solutionrelative:talabat.repository\\data\\storedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF30311-D978-44BC-A8A0-9AB20F581AD7}|Talabat_API\\Talabat.API.csproj|c:\\users\\ahmed\\desktop\\fullstack\\asp.net\\8.api\\talabat_api\\talabat_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3EF30311-D978-44BC-A8A0-9AB20F581AD7}|Talabat_API\\Talabat.API.csproj|solutionrelative:talabat_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\8.API\\Talabat_API\\Talabat.Repository\\Data\\Migrations\\20240930233820_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Talabat.Repository\\Data\\Migrations\\20240930233820_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5FE2C06-8B17-49B7-912D-B1B9F3B1C7E6}|Talabat.Repository\\Talabat.Repository.csproj|c:\\users\\ahmed\\desktop\\fullstack\\asp.net\\8.api\\talabat_api\\talabat.repository\\data\\confugrations\\productconfugrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5FE2C06-8B17-49B7-912D-B1B9F3B1C7E6}|Talabat.Repository\\Talabat.Repository.csproj|solutionrelative:talabat.repository\\data\\confugrations\\productconfugrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF30311-D978-44BC-A8A0-9AB20F581AD7}|Talabat_API\\Talabat.API.csproj|c:\\users\\ahmed\\desktop\\fullstack\\asp.net\\8.api\\talabat_api\\talabat_api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF30311-D978-44BC-A8A0-9AB20F581AD7}|Talabat_API\\Talabat.API.csproj|solutionrelative:talabat_api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A382B8-D2D8-44CD-9DDD-72C80C1EA378}|Talabat.core\\Talabat.core.csproj|c:\\users\\ahmed\\desktop\\fullstack\\asp.net\\8.api\\talabat_api\\talabat.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43A382B8-D2D8-44CD-9DDD-72C80C1EA378}|Talabat.core\\Talabat.core.csproj|solutionrelative:talabat.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A382B8-D2D8-44CD-9DDD-72C80C1EA378}|Talabat.core\\Talabat.core.csproj|c:\\users\\ahmed\\desktop\\fullstack\\asp.net\\8.api\\talabat_api\\talabat.core\\entities\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43A382B8-D2D8-44CD-9DDD-72C80C1EA378}|Talabat.core\\Talabat.core.csproj|solutionrelative:talabat.core\\entities\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A382B8-D2D8-44CD-9DDD-72C80C1EA378}|Talabat.core\\Talabat.core.csproj|c:\\users\\ahmed\\desktop\\fullstack\\asp.net\\8.api\\talabat_api\\talabat.core\\entities\\productbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43A382B8-D2D8-44CD-9DDD-72C80C1EA378}|Talabat.core\\Talabat.core.csproj|solutionrelative:talabat.core\\entities\\productbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A382B8-D2D8-44CD-9DDD-72C80C1EA378}|Talabat.core\\Talabat.core.csproj|c:\\users\\ahmed\\desktop\\fullstack\\asp.net\\8.api\\talabat_api\\talabat.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43A382B8-D2D8-44CD-9DDD-72C80C1EA378}|Talabat.core\\Talabat.core.csproj|solutionrelative:talabat.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 286,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\8.API\\Talabat_API\\Talabat.core\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Talabat.core\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\8.API\\Talabat_API\\Talabat.core\\Entities\\Product.cs",
+              "RelativeToolTip": "Talabat.core\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T23:18:37.285Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\8.API\\Talabat_API\\Talabat_API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Talabat_API\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\8.API\\Talabat_API\\Talabat_API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Talabat_API\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAzwBgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T00:12:11.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\8.API\\Talabat_API\\Talabat_API\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "Talabat_API\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\8.API\\Talabat_API\\Talabat_API\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "Talabat_API\\Controllers\\BaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T00:11:14.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\8.API\\Talabat_API\\Talabat.Repository\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Talabat.Repository\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\8.API\\Talabat_API\\Talabat.Repository\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Talabat.Repository\\Repositories\\GenericRepository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAzwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T00:06:45.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\8.API\\Talabat_API\\Talabat.core\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Talabat.core\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\8.API\\Talabat_API\\Talabat.core\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "Talabat.core\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T00:04:49.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\8.API\\Talabat_API\\Talabat_API\\Program.cs",
+              "RelativeDocumentMoniker": "Talabat_API\\Program.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\8.API\\Talabat_API\\Talabat_API\\Program.cs",
+              "RelativeToolTip": "Talabat_API\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T23:26:36.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StoreContextSeed.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\8.API\\Talabat_API\\Talabat.Repository\\Data\\StoreContextSeed.cs",
+              "RelativeDocumentMoniker": "Talabat.Repository\\Data\\StoreContextSeed.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\8.API\\Talabat_API\\Talabat.Repository\\Data\\StoreContextSeed.cs",
+              "RelativeToolTip": "Talabat.Repository\\Data\\StoreContextSeed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T23:55:21.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "products.json",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\8.API\\Talabat_API\\Talabat.Repository\\Data\\DataSeeding\\products.json",
+              "RelativeDocumentMoniker": "Talabat.Repository\\Data\\DataSeeding\\products.json",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\8.API\\Talabat_API\\Talabat.Repository\\Data\\DataSeeding\\products.json",
+              "RelativeToolTip": "Talabat.Repository\\Data\\DataSeeding\\products.json",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAGcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-30T23:54:13.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "brands.json",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\8.API\\Talabat_API\\Talabat.Repository\\Data\\DataSeeding\\brands.json",
+              "RelativeDocumentMoniker": "Talabat.Repository\\Data\\DataSeeding\\brands.json",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\8.API\\Talabat_API\\Talabat.Repository\\Data\\DataSeeding\\brands.json",
+              "RelativeToolTip": "Talabat.Repository\\Data\\DataSeeding\\brands.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-30T23:53:48.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "categories.json",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\8.API\\Talabat_API\\Talabat.Repository\\Data\\DataSeeding\\categories.json",
+              "RelativeDocumentMoniker": "Talabat.Repository\\Data\\DataSeeding\\categories.json",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\8.API\\Talabat_API\\Talabat.Repository\\Data\\DataSeeding\\categories.json",
+              "RelativeToolTip": "Talabat.Repository\\Data\\DataSeeding\\categories.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-30T23:53:36.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\8.API\\Talabat_API\\Talabat_API\\appsettings.json",
+              "RelativeDocumentMoniker": "Talabat_API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\8.API\\Talabat_API\\Talabat_API\\appsettings.json",
+              "RelativeToolTip": "Talabat_API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-30T23:41:18.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductConfugrations.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\8.API\\Talabat_API\\Talabat.Repository\\Data\\Confugrations\\ProductConfugrations.cs",
+              "RelativeDocumentMoniker": "Talabat.Repository\\Data\\Confugrations\\ProductConfugrations.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\8.API\\Talabat_API\\Talabat.Repository\\Data\\Confugrations\\ProductConfugrations.cs",
+              "RelativeToolTip": "Talabat.Repository\\Data\\Confugrations\\ProductConfugrations.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T23:33:34.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StoreDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\8.API\\Talabat_API\\Talabat.Repository\\Data\\StoreDbContext.cs",
+              "RelativeDocumentMoniker": "Talabat.Repository\\Data\\StoreDbContext.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\8.API\\Talabat_API\\Talabat.Repository\\Data\\StoreDbContext.cs",
+              "RelativeToolTip": "Talabat.Repository\\Data\\StoreDbContext.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAywBUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T23:24:32.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240930233820_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\8.API\\Talabat_API\\Talabat.Repository\\Data\\Migrations\\20240930233820_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Talabat.Repository\\Data\\Migrations\\20240930233820_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\8.API\\Talabat_API\\Talabat.Repository\\Data\\Migrations\\20240930233820_InitialCreate.cs",
+              "RelativeToolTip": "Talabat.Repository\\Data\\Migrations\\20240930233820_InitialCreate.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAkwF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T23:38:20.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\8.API\\Talabat_API\\Talabat_API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Talabat_API\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\8.API\\Talabat_API\\Talabat_API\\WeatherForecast.cs",
+              "RelativeToolTip": "Talabat_API\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T23:26:33.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductBrand.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\8.API\\Talabat_API\\Talabat.core\\Entities\\ProductBrand.cs",
+              "RelativeDocumentMoniker": "Talabat.core\\Entities\\ProductBrand.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\8.API\\Talabat_API\\Talabat.core\\Entities\\ProductBrand.cs",
+              "RelativeToolTip": "Talabat.core\\Entities\\ProductBrand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T23:21:25.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\8.API\\Talabat_API\\Talabat.core\\Entities\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "Talabat.core\\Entities\\ProductCategory.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\8.API\\Talabat_API\\Talabat.core\\Entities\\ProductCategory.cs",
+              "RelativeToolTip": "Talabat.core\\Entities\\ProductCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T23:20:41.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\8.API\\Talabat_API\\Talabat.core\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Talabat.core\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\8.API\\Talabat_API\\Talabat.core\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Talabat.core\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T23:18:11.603Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
