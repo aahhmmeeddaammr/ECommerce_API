@@ -78,3 +78,7 @@ C:\Users\Ahmed\Desktop\fullstack\ASP.NET\8.API\Talabat_API\Talabat_API\obj\Debug
 C:\Users\Ahmed\Desktop\fullstack\ASP.NET\8.API\Talabat_API\Talabat_API\obj\Debug\net7.0\Talabat.API.pdb
 C:\Users\Ahmed\Desktop\fullstack\ASP.NET\8.API\Talabat_API\Talabat_API\obj\Debug\net7.0\Talabat.API.genruntimeconfig.cache
 C:\Users\Ahmed\Desktop\fullstack\ASP.NET\8.API\Talabat_API\Talabat_API\obj\Debug\net7.0\ref\Talabat.API.dll
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\8.API\Talabat_API\Talabat_API\obj\Debug\net7.0\Talabat.API.sourcelink.json
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\8.API\Talabat_API\Talabat_API\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\8.API\Talabat_API\Talabat_API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\8.API\Talabat_API\Talabat_API\bin\Debug\net7.0\Talabat.API.staticwebassets.runtime.json

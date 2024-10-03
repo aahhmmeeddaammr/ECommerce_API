@@ -13,3 +13,4 @@ C:\Users\Ahmed\Desktop\fullstack\ASP.NET\8.API\Talabat_API\Talabat.Repository\ob
 C:\Users\Ahmed\Desktop\fullstack\ASP.NET\8.API\Talabat_API\Talabat.Repository\obj\Debug\net7.0\refint\Talabat.Repository.dll
 C:\Users\Ahmed\Desktop\fullstack\ASP.NET\8.API\Talabat_API\Talabat.Repository\obj\Debug\net7.0\Talabat.Repository.pdb
 C:\Users\Ahmed\Desktop\fullstack\ASP.NET\8.API\Talabat_API\Talabat.Repository\obj\Debug\net7.0\ref\Talabat.Repository.dll
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\8.API\Talabat_API\Talabat.Repository\obj\Debug\net7.0\Talabat.Repository.sourcelink.json

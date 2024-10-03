@@ -9,3 +9,4 @@ C:\Users\Ahmed\Desktop\fullstack\ASP.NET\8.API\Talabat_API\Talabat.core\obj\Debu
 C:\Users\Ahmed\Desktop\fullstack\ASP.NET\8.API\Talabat_API\Talabat.core\obj\Debug\net7.0\refint\Talabat.core.dll
 C:\Users\Ahmed\Desktop\fullstack\ASP.NET\8.API\Talabat_API\Talabat.core\obj\Debug\net7.0\Talabat.core.pdb
 C:\Users\Ahmed\Desktop\fullstack\ASP.NET\8.API\Talabat_API\Talabat.core\obj\Debug\net7.0\ref\Talabat.core.dll
+C:\Users\Ahmed\Desktop\fullstack\ASP.NET\8.API\Talabat_API\Talabat.core\obj\Debug\net7.0\Talabat.core.sourcelink.json
