@@ -18,6 +18,18 @@ namespace Talabat.Repository.Specification
             {
                 Query = Query.Where(specification.Critria);
             }
+            specification.Count = Query.Count();
+            if(specification.orderBy != null)
+            {
+                Query = Query.OrderBy(specification.orderBy);
+            }else if(specification.orderByDesc != null)
+            {
+                Query = Query.OrderByDescending(specification.orderByDesc);
+            }
+            if (specification.Pagination)
+            {
+                Query = Query.Skip(specification.skip).Take(specification.take);
+            }
             Query = specification.Incliudes.Aggregate(Query , (q , include)=>q.Include(include));
             return Query;
         }

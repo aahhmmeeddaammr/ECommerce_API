@@ -31,5 +31,14 @@ namespace Talabat.Repository.Repositories
         {
             return await SpecofocationEvaluator<T>.GetQuery(_dbcontext.Set<T>() , specification).FirstOrDefaultAsync();
         }
+        public async Task<IEnumerable<T>> GetAllAsync()
+        {
+            return await _dbcontext.Set<T>().ToListAsync();
+        }
+
+        public async Task<T?> GetByIdAsync(int id)
+        {
+            return await _dbcontext.Set<T>().Where(T=>T.Id==id).FirstOrDefaultAsync();
+        }
     }
 }
